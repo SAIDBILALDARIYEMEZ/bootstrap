@@ -1,5 +1,5 @@
 # patika-bootstrap-odev1
 
-HTML - CSS - Bootstrap 4 Exercise
+HTML - CSS - Bootstrap 1 Exercise
 
-![preview](preview.gif)
+![Uploading bootstrap.gif…]()
