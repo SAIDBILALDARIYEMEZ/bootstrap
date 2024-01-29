@@ -1,0 +1,49 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow {
+    background-color: #FFC017
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid #242424
+}
+
+.border-bottom-gry {
+    border-bottom: 1px solid #F2F2F2;
+}
+
+.border-top-gry {
+    border-top: 1px solid #F2F2F2;
+
+}
+
+.M {
+    width: 400px;
+    height: 400px;
+    transform: translate3d(0px, 0px, 0px);
+    content-visibility: visible;
+}
+.bg-dark {
+    background-color: #191919 !important;
+}
+
+.dark {
+    color: #000000 !important;
+}
+
+.bg-f {
+    background-color: #F2F2F2;
+}
+
+.navbar.scrolled {
+    background-color: white;
+    transition: background-color 0.5s ease;
+}
+
+
+
+
+
