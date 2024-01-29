@@ -1,1 +1,1 @@
-![Ekran-Kaydı-2024-01-29-17.28.52.gif](..%2F..%2F..%2FDownloads%2FEkran-Kayd%C4%B1-2024-01-29-17.28.52.gif)
+![Ekran-Kaydı-2024-01-29-17 28 52](https://github.com/SAIDBILALDARIYEMEZ/bootstrap/assets/138494006/f0b894eb-0a7a-4c66-9789-782dd2faa32c)
