@@ -1,0 +1,1 @@
+![Ekran-Kaydı-2024-01-29-17.28.52.gif](..%2F..%2F..%2FDownloads%2FEkran-Kayd%C4%B1-2024-01-29-17.28.52.gif)
