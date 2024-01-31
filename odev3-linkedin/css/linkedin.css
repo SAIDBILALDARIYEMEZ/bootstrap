@@ -15,7 +15,7 @@
 }
 
 .navbar-nav {
-    margin-left: 300px;
+    margin-left: 180px;
     margin-right: 0px;
     white-space: nowrap;
 
@@ -69,6 +69,7 @@ input::placeholder {
     background-color: #edf3f8;
     width: 500px;
 }
+
 
 
 
