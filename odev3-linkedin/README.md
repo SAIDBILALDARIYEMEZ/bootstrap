@@ -1,1 +1,1 @@
-![Ekran-Kaydı-2024-01-29-17 28 52](https://github.com/SAIDBILALDARIYEMEZ/bootstrap/assets/138494006/f0b894eb-0a7a-4c66-9789-782dd2faa32c)
+![Ekran-Kaydı-2024-01-31-15 12 49](https://github.com/SAIDBILALDARIYEMEZ/bootstrap/assets/138494006/f1f4f852-2984-40d3-882d-7ff200d598fc)
